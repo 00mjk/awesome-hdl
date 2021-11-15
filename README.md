@@ -63,6 +63,7 @@ A curated list of amazingly awesome hardware description language projects.
   - [Pyrope](https://masc.soe.ucsc.edu/pyrope.html) - Python-like language supporting "fluid pipelines" and "live flow", 2017+
   - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research.
   - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
+  - [openqasm](https://github.com/qiskit/openqasm) - quantum assembly language for extended quantum circuits.
   - [veriloggen](https://github.com/PyHDI/veriloggen) - Python, Verilog centric meta HDL with HLS like features, 2015-?
 
 * Ruby
